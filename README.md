@@ -1,4 +1,4 @@
-# vue-todo
+# vue-tailwindcss-scss-todo
 
 ## Project setup
 ```
